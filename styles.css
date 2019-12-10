@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body header {
+
+	background-image: url("guess.png");
+	height:500px;
+	background-repeat: no-repeat;
+    background-position: center top;
+}
+
+body {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+body header h1, body header h2{
+    padding-left: 450px;
+	color:rgb(2, 8, 1);
+}
+
+main {
+	padding-left: 200px;
+}
+
+footer {
+	padding-top: 50px;
+	padding-left: 200px;
+}
